@@ -19,7 +19,7 @@
    '("9b4ae6aa7581d529e20e5e503208316c5ef4c7005be49fdb06e5d07160b67adc" "171d1ae90e46978eb9c342be6658d937a83aaa45997b1d7af7657546cae5985b" default))
  '(global-display-line-numbers-mode t)
  '(package-selected-packages
-   '(atom-dark-theme evil org-bullets smooth-scrolling visual-regexp grip-mode org-roam multiple-cursors multi-cursors projectile perspective rainbow-delimiters doom-themes all-the-icons doom-modeline ivy-prescient counsel ivy-rich which-key use-package tablist mermaid-mode markdown-toc markdown-preview-mode latex-preview-pane ivy edit-indirect csv-mode csv auto-complete-auctex auctex-lua auctex-latexmk atom-one-dark-theme))
+   '(auctex atom-dark-theme evil org-bullets smooth-scrolling visual-regexp grip-mode org-roam multiple-cursors multi-cursors projectile perspective rainbow-delimiters doom-themes all-the-icons doom-modeline ivy-prescient counsel ivy-rich which-key use-package tablist mermaid-mode markdown-toc markdown-preview-mode latex-preview-pane ivy edit-indirect csv-mode csv auto-complete-auctex auctex-lua auctex-latexmk atom-one-dark-theme))
  '(tool-bar-mode nil))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
